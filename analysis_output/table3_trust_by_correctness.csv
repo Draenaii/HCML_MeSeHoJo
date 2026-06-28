@@ -1,0 +1,5 @@
+Model,Correct?,Mean trust,Approp. trust
+EBM,Correct,1.88,1.88
+EBM,Incorrect,2.88,3.12
+Random Forest,Correct,2.62,2.62
+Random Forest,Incorrect,3.15,2.85

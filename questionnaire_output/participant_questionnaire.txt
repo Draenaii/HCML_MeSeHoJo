@@ -1,0 +1,289 @@
+====================================================================================================
+Stimulus 1 of 8
+
+Student 597
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 64.7%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Mother's job: at home
+
+Factors decreasing the predicted chance of passing:
+- Number of previous class failures: 1
+- School: school MS
+- In a romantic relationship: yes
+- Age: 18
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 2 of 8
+
+Student 517
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 78.1%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Reason for choosing the school: school reputation
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Home address type: rural
+- Weekend alcohol consumption: 4
+- Going out with friends: 5
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 3 of 8
+
+Student 597
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 66.5%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Family size: more than 3 family members and Travel time to school: 30 minutes to 1 hour
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Number of previous class failures: 1
+- Home address type: rural and Weekend alcohol consumption: 1
+- Home address type: rural
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 4 of 8
+
+Student 443
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 88.3%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Reason for choosing the school: school reputation
+- Mother's education level: higher education
+- Father's job: services
+- Guardian: father
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 5 of 8
+
+Student 604
+
+Model: A
+
+The model predicts that this student will fail.
+Predicted probability of passing: 16.0%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Family size: more than 3 family members and Travel time to school: 30 minutes to 1 hour
+
+Factors decreasing the predicted chance of passing:
+- Wants to pursue higher education: no
+- School: school MS
+- Number of previous class failures: 1
+- School: school MS and Going out with friends: 2
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 6 of 8
+
+Student 517
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 81.7%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Mother's education level: primary education and Reason for choosing the school: school reputation
+- Reason for choosing the school: school reputation
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Reason for choosing the school: school reputation and Quality of family relationships: 5
+- Gender: female and Family size: 3 or fewer family members
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 7 of 8
+
+Student 604
+
+Model: B
+
+The model predicts that this student will fail.
+Predicted probability of passing: 42.6%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- No strong increasing factors found.
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Number of previous class failures: 1
+- Wants to pursue higher education: no
+- Father's education level: primary education
+- Mother's education level: primary education
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+
+====================================================================================================
+Stimulus 8 of 8
+
+Student 443
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 97.9%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Age: 15 and Reason for choosing the school: school reputation
+- Guardian: father
+- Family size: 3 or fewer family members and Guardian: father
+- Mother's education level: higher education and Current health status: 2
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more.
+====================================================================================================
+

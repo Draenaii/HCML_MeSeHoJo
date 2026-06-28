@@ -1,0 +1,266 @@
+display_order,stimulus_id,student_id,participant_model_label,model_name,model_type,explanation_type,predicted_label,predicted_probability_pass,participant_text
+1,2,597,B,Random Forest,black-box,post-hoc local perturbation explanation,pass,0.6471405605542588,"Stimulus 1 of 8
+
+Student 597
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 64.7%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Mother's job: at home
+
+Factors decreasing the predicted chance of passing:
+- Number of previous class failures: 1
+- School: school MS
+- In a romantic relationship: yes
+- Age: 18
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+2,6,517,B,Random Forest,black-box,post-hoc local perturbation explanation,pass,0.7806154365565589,"Stimulus 2 of 8
+
+Student 517
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 78.1%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Reason for choosing the school: school reputation
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Home address type: rural
+- Weekend alcohol consumption: 4
+- Going out with friends: 5
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+3,1,597,A,EBM,inherently interpretable,built-in local additive explanation,pass,0.664649289606041,"Stimulus 3 of 8
+
+Student 597
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 66.5%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Family size: more than 3 family members and Travel time to school: 30 minutes to 1 hour
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Number of previous class failures: 1
+- Home address type: rural and Weekend alcohol consumption: 1
+- Home address type: rural
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+4,8,443,B,Random Forest,black-box,post-hoc local perturbation explanation,pass,0.8834069772403619,"Stimulus 4 of 8
+
+Student 443
+
+Model: B
+
+The model predicts that this student will pass.
+Predicted probability of passing: 88.3%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Reason for choosing the school: school reputation
+- Mother's education level: higher education
+- Father's job: services
+- Guardian: father
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+5,3,604,A,EBM,inherently interpretable,built-in local additive explanation,fail,0.1602996424338928,"Stimulus 5 of 8
+
+Student 604
+
+Model: A
+
+The model predicts that this student will fail.
+Predicted probability of passing: 16.0%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Family size: more than 3 family members and Travel time to school: 30 minutes to 1 hour
+
+Factors decreasing the predicted chance of passing:
+- Wants to pursue higher education: no
+- School: school MS
+- Number of previous class failures: 1
+- School: school MS and Going out with friends: 2
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+6,5,517,A,EBM,inherently interpretable,built-in local additive explanation,pass,0.8172739235696473,"Stimulus 6 of 8
+
+Student 517
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 81.7%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Mother's education level: primary education and Reason for choosing the school: school reputation
+- Reason for choosing the school: school reputation
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Reason for choosing the school: school reputation and Quality of family relationships: 5
+- Gender: female and Family size: 3 or fewer family members
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+7,4,604,B,Random Forest,black-box,post-hoc local perturbation explanation,fail,0.426117315404751,"Stimulus 7 of 8
+
+Student 604
+
+Model: B
+
+The model predicts that this student will fail.
+Predicted probability of passing: 42.6%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- No strong increasing factors found.
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+- Number of previous class failures: 1
+- Wants to pursue higher education: no
+- Father's education level: primary education
+- Mother's education level: primary education
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
+8,7,443,A,EBM,inherently interpretable,built-in local additive explanation,pass,0.978898518413987,"Stimulus 8 of 8
+
+Student 443
+
+Model: A
+
+The model predicts that this student will pass.
+Predicted probability of passing: 97.9%.
+
+Explanation:
+The following factors had the strongest influence on this prediction.
+
+Factors increasing the predicted chance of passing:
+- Age: 15 and Reason for choosing the school: school reputation
+- Guardian: father
+- Family size: 3 or fewer family members and Guardian: father
+- Mother's education level: higher education and Current health status: 2
+
+Factors decreasing the predicted chance of passing:
+- School: school MS
+
+Please answer the following statements on a 1-5 scale:
+
+5 = I agree strongly
+4 = I agree somewhat
+3 = I'm neutral about it
+2 = I disagree somewhat
+1 = I disagree strongly
+1. The explanation helped me understand why the model made this prediction.
+2. The explanation was clear.
+3. The explanation gave enough detail to understand the prediction.
+4. The explanation felt complete for this specific prediction.
+5. The explanation made me trust the prediction more."
